@@ -4,5 +4,5 @@
 
 Injector de Memoria
 
-Dword / Float 
-Offset / Inject Metodo [ pwrite64 ]
+Dword / Float / 
+Offset / Inject Metodo [ pwrite64 ]<~~_
